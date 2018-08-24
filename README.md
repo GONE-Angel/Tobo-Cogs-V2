@@ -1,7 +1,7 @@
 # Tobo-Cogs
 Tobo's Cogs for Twentysix's Red-DiscordBot.
 
-Please note that this branch is for **Red V2**. Check out the [V3/develop](../../tree/V3/develop) branch for V3 cogs.
+Please note that this branch is for **Red V2**. Check out the [V3](../../tree/V3) branch for V3 cogs.
 
 # Installation
 
