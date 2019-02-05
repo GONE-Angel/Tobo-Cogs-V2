@@ -1,13 +1,13 @@
 # Tobo-Cogs
-Tobo's Cogs for Twentysix's Red-DiscordBot.
+Tobo's Cogs for the [Cog Creators' Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot).
 
-Please note that this branch is for **Red V2**. Check out the [V3](../../tree/V3) branch for V3 cogs.
+Please note that this repository is for **Red V2**. These cogs are also **no longer supported by me**. Check out the [V3 repository](https://github.com/Tobotimus/Tobo-Cogs/tree/V3) for V3 cogs.
 
 # Installation
 
 To add this repository, use this command in discord (replace [p] with your bot's prefix):
 
-    [p]cog repo add Tobo-Cogs https://github.com/Tobotimus/Tobo-Cogs
+    [p]cog repo add Tobo-Cogs https://github.com/Tobotimus/Tobo-Cogs-V2
 
 To install a cog, use this command (replace [cog] with the name of the cog you wish to install):
 
